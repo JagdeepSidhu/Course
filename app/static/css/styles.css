@@ -1,3 +1,7 @@
 * {
   font-family: monaco;
 }
+
+#name, #description{
+	display: block;
+}
